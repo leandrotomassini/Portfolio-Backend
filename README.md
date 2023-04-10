@@ -8,3 +8,7 @@ Mi objetivo es crear experiencias digitales atractivas y funcionales que conecte
 Espero que disfrutes de tu tiempo aquí y que puedas aprender algo nuevo de mi trabajo. Si tienes alguna pregunta o comentario, no dudes en contactarme. ¡Gracias por tu visita!
 
 * [Link de mi Portfolio web](https://leandrotomassini-4d656.web.app/)
+
+# ATENCIÓN: PARA PROBAR DESDE POSTMAN DEBE PEGAR EL TOKEN EN AUTHORIZATION CON TYPE BEARER TOKEN
+![](https://i.imgur.com/b7kUX9D.png)
+![](https://i.imgur.com/dmQRIY7.png)
